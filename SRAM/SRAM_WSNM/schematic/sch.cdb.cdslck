@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sbhandari
+HostName                       ece-n288-lnx03.ad.ufl.edu
+ProcessIdentifier              13036
+ProcessCreationTime_UTC        1512596358
+ProcessCreationTime_Readable   Wed Dec  6 16:39:18 2017 EST
+AppIdentifier                  /apps/cds/ic5141/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/UFAD/sbhandari/VLSI/SRAM/SRAM_WSNM/schematic/sch.cdb
+TimeEditLocked                 Wed Dec  6 18:56:28 2017 EST
