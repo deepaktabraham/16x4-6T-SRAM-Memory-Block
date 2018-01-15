@@ -1,0 +1,28 @@
+#
+SRAM Inverter symbol
+I67
+I62
+I63
+#
+SRAM Pass_Transistor symbol
+I36
+I35
+I34
+I33
+I32
+I31
+I37
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I66
+#ISCELL
+basic ipin symbol
+PIN0
+PIN4
+PIN3
+#ISCELL
+basic opin symbol
+PIN6
+PIN2
+PIN5
+PIN7
