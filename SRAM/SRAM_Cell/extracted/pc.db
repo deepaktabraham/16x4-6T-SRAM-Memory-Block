@@ -1,0 +1,15 @@
+#
+NCSU_Analog_Parts pmos4 ivpcell
++4
++5
+#
+NCSU_Analog_Parts nmos4 ivpcell
++1
++2
++0
++3
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I3
+I2
+I1
