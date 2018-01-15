@@ -1,0 +1,24 @@
+#
+SRAM Inverter symbol
+I9
+#
+NCSU_Analog_Parts pmos4 symbol
+P0
+P1
+#
+NCSU_Analog_Parts nmos4 symbol
+N1
+N0
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN2
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I10
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I11
